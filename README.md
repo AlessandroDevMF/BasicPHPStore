@@ -4,14 +4,14 @@ Ein Mini-Onlineshop in purem PHP 8 – gebaut um die Grundlagen von Web-Entwickl
 
 ## Features
 
-- 🛍️ Produktliste mit Kategorie-Filter
-- 📄 Produktdetailseite mit ähnlichen Produkten
-- 🛒 Warenkorb mit Session-Speicherung
-- ✏️ Menge ändern & Produkte entfernen
-- 💾 SQLite-Datenbank via PDO
-- 🎨 Dark-Theme Design (kein CSS-Framework)
-- 🔒 XSS-Schutz durch htmlspecialchars()
-- 🔐 SQL-Injection-Schutz durch Prepared Statements
+            🛍️ Produktliste mit Kategorie-Filter
+📄 Produktdetailseite mit ähnlichen Produkten
+🛒 Warenkorb mit Session-Speicherung
+✏️ Menge ändern & Produkte entfernen
+💾 SQLite-Datenbank via PDO
+🎨 Dark-Theme Design (kein CSS-Framework)
+🔒 XSS-Schutz durch htmlspecialchars()
+🔐 SQL-Injection-Schutz durch Prepared Statements
 
 ## Projektstruktur
 
@@ -133,4 +133,4 @@ Der restliche Code bleibt **identisch** – das ist die Stärke von PDO.
 
 ---
 
-Gebaut als Lernprojekt für ein Bewerbungsgespräch 🚀
+Gebaut als Lernprojekt 
